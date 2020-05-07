@@ -15,7 +15,7 @@ body {
   height: 33px;
 }
 
-/* Nav bar */
+/* Navbar */
 .navbar-default {
   background-color: #e74c3c;
   border-color: #c0392b;
@@ -70,12 +70,54 @@ body {
   color: #ffbbbc;
 }
 
+/* Custom  */
 .main-color-bg {
   background-color: #e74c3c !important;
   border-color: #c0392b !important;
   color: white;
 }
 
+/* Header */
+#header {
+  background: #333333;
+  color: white;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+#header .create {
+  padding-top: 20px;
+}
+
+/* Breadcrumb */
+.breadcrumb {
+  background: #cccccc;
+  color: #333333;
+}
+
+.breadcrumb a {
+  color: #333333;
+}
+
+/* Progress Bars */
+.progress-bar {
+  background: #333333;
+  color: white;
+}
+
+.dash-box {
+  text-align: center;
+}
+
+#footer {
+  background: #333333;
+  color: white;
+  text-align: center;
+  padding: 30px;
+  margin-top: 30px;
+}
+
+/* Media Queries */
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #ecf0f1;
