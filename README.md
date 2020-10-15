@@ -28,8 +28,7 @@ _Is a project built using **HTML && CSS && Bootstrap framework**, it have many p
 
 ## Run Online Project
 
-You can get the hosted project here -> http://mostafa-medht.github.io/neighborhood-map-pro-8
-
+You can get the hosted project here -> https://mostafa-medht.github.io/CMS-Admin-Dashboard/
 ## Features
 
 1. Click on any marker to see the location details fetched from the [FourSquare APIs](https://developer.foursquare.com/).
